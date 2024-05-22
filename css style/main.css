@@ -1,0 +1,27 @@
+div{
+    text-align:center ;
+}
+div h1{
+    font-size: 80px;
+    font-weight:700 ;
+    font-family: Impact;
+}
+div p{
+    font-size: 35px;
+    font-weight:400 ;
+    font-family: "Times New Roman";
+}
+div button{
+    font-size: 13.3333px;
+    font-weight:400 ;
+    font-family: Arial;
+    width: 250px;
+    height: 80px;
+    background-color: blue;
+    color: white;
+
+}
+div button:hover{
+    background-color: green;
+}
+
